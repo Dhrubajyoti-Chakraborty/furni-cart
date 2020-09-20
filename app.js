@@ -1,3 +1,4 @@
+
   //variables
 
   const cartBtn = document.querySelector('.cart-btn');
@@ -237,9 +238,3 @@
           ui.cartLogic();
       });
   });
-  
-  
-  
-  
-  
-  
